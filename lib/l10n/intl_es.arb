@@ -1,0 +1,27 @@
+{
+    "login_title": "Login",
+    "login_email_label": "Email",
+    "login_email_hint": "example@example.com",
+    "login_email_error": "Este email es invalido",
+    "login_password_label": "Contraseña",
+    "login_password_error": "La contraseña debe contener al menos ocho caracteres",
+    "login_register_button": "Registro",
+    "register_title": "Registro",
+    "register_go_login": "¿Ya tienes cuenta?",
+    "home_title": "Lista de Productos",
+    "home_delete": "Eliminar",
+    "home_add_product": "Añadir nuevo producto",
+    "product_list_no_content": "No hay productos aun",
+    "product_delete_message": "¡Producto {name} eliminado!",
+    "product_detail_title": "Crear producto",
+    "product_detail_name_label": "Nombre del producto",
+    "product_detail_value_label": "Precio del producto",
+    "product_detail_available": "¿Esta disponible?",
+    "product_detail_added": "Producto añadido correctamente",
+    "product_detail_gallery": "Galeria",
+    "product_detail_camera": "Cámara",
+    "product_detail_camera_error": "Debes otorgar permiso para usar la cámara",
+    "product_detail_gallery_error": "Debes otorgar permiso para usar la galeria",
+    "error_rety": "Reintentar"
+
+}
