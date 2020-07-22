@@ -4,13 +4,24 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Android Coding Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://codecov.io/gh/RoberMiranda92/Post-List">
+  <img src="https://codecov.io/gh/RoberMiranda92/Post-List/branch/develop/graph/badge.svg?token=ZKK03HD0MI" />
+</a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+From a high level point of view the demo consists of a list of products, where each product has its own detail.
+The user must login into the app to upload new products or delete it.
+
+In this example you can see the use of BLOC architecture with other diferent Firebase services.
+
+To retrieve the rest information
+* http://jsonplaceholder.typicode.com/users
+* http://jsonplaceholder.typicode.com/users
+
+## Tech Suit
+* Bloc https://bloclibrary.dev/#/
+* RXDart https://github.com/ReactiveX/RxJava
+* Firebase_auth https://pub.dev/packages/firebase_auth
+* Firebase_storage https://pub.dev/packages/firebase_storage
