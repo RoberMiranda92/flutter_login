@@ -1,15 +1,8 @@
-# flutter_login
+# Flutter Login
 
 A new Flutter project.
 
 ## Getting Started
-
-
-# Android Coding Demo
-
-<a href="https://codecov.io/gh/RoberMiranda92/Post-List">
-  <img src="https://codecov.io/gh/RoberMiranda92/Post-List/branch/develop/graph/badge.svg?token=ZKK03HD0MI" />
-</a>
 
 From a high level point of view the demo consists of a list of products, where each product has its own detail.
 The user must login into the app to upload new products or delete it.
